@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mohammedtahalla@gmail.com**
 
-- ⚡ Fun fact **I think I'm Funny**
+- ⚡ Fun fact **I'm the Greatest Of All Time 🤝🏻 .**
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mohammed Tahalla)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mohammed tahalla)<br>
