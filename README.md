@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED TAHALLA</h1>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUoeXEqN5dVELZwDxUrwGCuyP0SYSQHgDV8kghAL6hRb_WuiAhE1q_K-nHdJxvUZHPqI&usqp=CAU" alt="Banner" width="100%">
+  <img src="https://c4.wallpaperflare.com/wallpaper/748/392/11/tv-show-the-blacklist-james-spader-wallpaper-thumb.jpg" alt="Banner" width="100%">
 </p>
 
 <h3 align="center">A passionate Full-stack developer from MOROCCO 🇲🇦</h3>
