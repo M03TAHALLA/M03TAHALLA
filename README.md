@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Cursur** at [1337MED](https://github.com/M03TAHALLA/42-cursus-1337MED-.git)
 
-- 🌱 I’m currently learning **LARAVEL** and expanding my skills through challenging projects.
+- 🌱 I’m currently learning **C programming language** and expanding my skills through challenging projects.
 
 - 💬 Ask me about **PHP (LARAVEL), C, C++...**
 
