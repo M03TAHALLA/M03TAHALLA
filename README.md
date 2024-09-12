@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED TAHALLA</h1>
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUoeXEqN5dVELZwDxUrwGCuyP0SYSQHgDV8kghAL6hRb_WuiAhE1q_K-nHdJxvUZHPqI&usqp=CAU" alt="Banner" width="100%">
+</p>
+
 <h3 align="center">A passionate Full-stack developer from MOROCCO 🇲🇦</h3>
 
 - 🔭 I’m currently working on **Cursur** at [1337MED](https://github.com/M03TAHALLA/42-cursus-1337MED-.git)
