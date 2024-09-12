@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED TAHALLA</h1>
 
-<h3 align="center">A passionate Full-stack developer from MORROCCO 🇲🇦</h3>
+<h3 align="center">A passionate Full-stack developer from MOROCCO 🇲🇦</h3>
 
-- 🔭 I’m currently working on [PFE-Application-de-generation-dexamen-QCM-et-gestion-de-la-correction-automatique](https://github.com/M03TAHALLA/PFE-Application-de-generation-dexamen-QCM-et-gestion-de-la-correction-automatique)
+- 🔭 I’m currently working on **Cursur** at [1337MED](https://github.com/M03TAHALLA/42-cursus-1337MED-.git)
 
-- 🌱 I’m currently learning **LARAVEL**
+- 🌱 I’m currently learning **LARAVEL** and expanding my skills through challenging projects.
 
-- 💬 Ask me about **PHP(LARAVEL)...**
+- 💬 Ask me about **PHP (LARAVEL), C, C++...**
 
-- 📫 How to reach me **mohammedtahalla@gmail.com**
+- 📫 How to reach me: **mohammedtahalla@gmail.com**
 
-- ⚡ Fun fact **I'm the Greatest Of All Time 🤝🏻 .**
+- ⚡ Fun fact: **I'm the Greatest Of All Time 🤝🏻.**
+
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Mohammed Tahalla](https://www.linkedin.com/in/mohammed-tahalla-47a056236/)) <br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Mohammed Tahalla)](https://www.facebook.com/mohamd.winers/)<br>
