@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED TAHALLA</h1>
-<div align="center" >
-  <img alt="Devlopper Full-Satck" src="https://media.discordapp.net/attachments/1008571131667677294/1082453954052497408/TAHALLA_DevloppersFullStack_8723d0b5-e32e-4902-8ddd-cd9df0748479.png?width=442&height=442">
-</div>
+
 <h3 align="center">A passionate Full-stack developer from MORROCCO 🇲🇦</h3>
 
 - 🔭 I’m currently working on [PFE-Application-de-generation-dexamen-QCM-et-gestion-de-la-correction-automatique](https://github.com/M03TAHALLA/PFE-Application-de-generation-dexamen-QCM-et-gestion-de-la-correction-automatique)
