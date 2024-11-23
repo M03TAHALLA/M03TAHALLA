@@ -13,7 +13,7 @@
 - 📫 How to reach me: **mohammedtahalla@gmail.com**
 
 - ⚡ Fun fact: **I'm the Greatest Of All Time 🤝🏻.**
-- <h1 align="center">[![mtahalla's 42 stats](https://badge.mediaplus.ma/greenbinary/mtahalla)](https://github.com/oakoudad/badge42)</h1>
+- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mtahalla" alt="mtahalla's 42 stats" /></a>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Mohammed Tahalla](https://www.linkedin.com/in/mohammed-tahalla-47a056236/)) <br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Mohammed Tahalla)](https://www.facebook.com/mohamd.winers/)<br>
