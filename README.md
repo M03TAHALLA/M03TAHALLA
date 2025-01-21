@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED TAHALLA</h1>
-![so_long Gameplay](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+
+![Description of the GIF](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+
 
 
 <h3 align="center">A passionate Full-stack developer from MOROCCO 🇲🇦</h3>
