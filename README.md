@@ -33,10 +33,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M03TAHALLA&layout=compact&theme=dracula" style="    height: 180px;">
 
 </a>
- <br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
-
 </div>
 
 ## 🏆 GitHub Trophies
